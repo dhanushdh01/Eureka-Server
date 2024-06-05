@@ -13,4 +13,3 @@ public class EurekaServerApplication {
 	}
 
 }
-echo "# Eureka-Server" >> README.md
